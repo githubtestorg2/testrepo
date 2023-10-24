@@ -5,4 +5,4 @@ Repo for testing github mechanics.
 lorem ipsum
 
 # another new section
-lorem ipsum
+lorem ipsum2
