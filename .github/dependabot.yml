@@ -5,4 +5,6 @@ updates:
     schedule:
       interval: "weekly"
     groups:
-      actions-versions
+      actions-versions:
+        patterns:
+          - "*"
